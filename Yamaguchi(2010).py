@@ -107,6 +107,4 @@ for r in range(M//2, g.shape[0]-M//2):
                 if Fc > Ts:
                     Dp_b[r, c] = 1
                     break        
-        
-
-A = [Dp_f, Dp_b]
+					
