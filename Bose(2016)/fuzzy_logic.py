@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Tipping problem
 Created on Wed Sep 12 16:18:02 2018
 
 @author: Cho
