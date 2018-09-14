@@ -8,10 +8,8 @@ Bose, K., & Bandyopadhyay, S. K. (2016). Crack Detection and Classification in C
 
 """
 import cv2
-from skimage.filters import frangi, threshold_otsu, threshold_local
 import matplotlib.pyplot as plt
 import numpy as np
-from skimage.transform import pyramid_expand, rescale
 from skimage.measure import regionprops
 from fuzzy_logic import fuzzy_model
 
